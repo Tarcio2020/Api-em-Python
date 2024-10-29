@@ -1,6 +1,5 @@
 from config import db
 
-# Definição da entidade Contact
 class Contact(db.Model):
     __tablename__ = 'contacts'
 

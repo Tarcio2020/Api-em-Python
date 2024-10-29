@@ -1,6 +1,5 @@
 from repository import contact_repository
 
-# Classe de serviço que implementa a lógica de negócios
 class ContactService:
 
     @staticmethod
